@@ -13,4 +13,4 @@ Just type **npm install**
 
 #### About
 - Writter: Abdul Salam
-- Email: abdulsalam121196@gmail.com)
+- Email: abdulsalam121196@gmail.com
